@@ -1,1 +1,14 @@
-XeroxYT-NTv5
+   [
+     {
+       "name": "XeroxYT-NT",
+       "version": "v5",
+       "image": "https://...",
+       "description": "..."
+     },
+     {
+       "name": "XeroxSS",
+       "version": "1.0",
+       "image": "https://...",
+       "description": "..."
+     }
+   ]
