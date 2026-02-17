@@ -5,6 +5,12 @@
        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoiYLk4SuiQQIIGchLXrrBo5JLtl69f5vB-jTnovZ7zA&s=10",
        "description": "..."
      },
+           {
+       "name": "XeroxYT-NT",
+       "version": "beta",
+       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoiYLk4SuiQQIIGchLXrrBo5JLtl69f5vB-jTnovZ7zA&s=10",
+       "description": "beta版です"
+     },
      {
        "name": "XeroxSS",
        "version": "1.0",
